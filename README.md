@@ -2,4 +2,4 @@
 
 
 웹개발공부중
-<h3>node.js, javascript , react</h3>
+<h3>node.js, javascript , react,python</h3>
