@@ -5,4 +5,4 @@
 <h3>node.js, javascript , react,python</h3>
 
 개발블로그
-https://san2222.tistory.com/
+https://san2-dev.tistory.com/
